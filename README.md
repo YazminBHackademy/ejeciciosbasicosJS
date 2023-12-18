@@ -1,0 +1,2 @@
+# ejeciciosbasicosJS
+Ejercicios de SFWIT 
